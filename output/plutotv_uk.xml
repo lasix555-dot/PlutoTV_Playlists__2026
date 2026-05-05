@@ -8876,6 +8876,11 @@
         <desc>Zeynep, Cengiz y Sule llegan a un acuerdo, uno con el cual no todos a su alrededor estarán de acuerdo.</desc>
         <icon src="https://images.pluto.tv/series/69ba92c40e11c84e72ac96f1/tile_1773834949263.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="69b32974814d27f4aed90fdd" start="20260505192530 +0000" stop="20260505214830 +0000">
+        <title>Madre</title>
+        <desc>Todos deben lidiar con el sacrificio de Sinan, mientras tratan de seguir adelante y recuperar sus vidas, pero aún quedan secretos por descubrir.</desc>
+        <icon src="https://images.pluto.tv/series/69ba92c40e11c84e72ac96f1/tile_1773834949263.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dd6d935d000120009bc1132" start="20260505142400 +0000" stop="20260505144800 +0000">
         <title>Ninja Warrior</title>
         <desc>La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
@@ -13725,6 +13730,11 @@
         <title>Requiem por un sueño</title>
         <desc>Cuatro personas luchan contra una drogadicción que llega a niveles insaciables. Pese a sus buenas intenciones, las drogas los vencen y sus vidas salen de control.</desc>
         <icon src="https://images.pluto.tv/series/5ecd163393132e001aa916b0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde437229eff00091b6c30" start="20260505230000 +0000" stop="20260506011000 +0000">
+        <title>Inmortales</title>
+        <desc>Teseo es un hombre mortal elegido por Zeus para liderar la lucha contra el despiadado rey Hiperión, que está causando estragos por toda Grecia para obtener un arma capaz de destruir a la humanidad.</desc>
+        <icon src="https://images.pluto.tv/series/697b59d371e7de966ec5cbc5/tile_1777921921792.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dd6ddb30a1d8a000908ed4c" start="20260505181200 +0000" stop="20260505200400 +0000">
         <title>Smitty</title>
@@ -23771,15 +23781,10 @@
         <desc>Jimmy nota que sus deudas aumentan y su dinero desaparece. Jeff se entera por accidente que el culpable es Sammy, quien ha estado usando un dispositivo para alterar los recuerdos. Más tarde, Jeff cena con sus padres.</desc>
         <icon src="https://images.pluto.tv/series/612fd5c2b2008a001381e3da/tile_1769207761667.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e8397936791b30007ebb5a7" start="20260505235200 +0000" stop="20260506002000 +0000">
-        <title>La Familia del Barrio</title>
-        <desc>Frustrado por su trabajo, Gaspar busca apoyo en el Abuelo y el Noruego y termina accidentado. Mientras, gracias a la medicina experimental, Peluzín se convierte en el Dr Lambretón.</desc>
-        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e8397936791b30007ebb5a7" start="20260506002000 +0000" stop="20260506004800 +0000">
-        <title>La Familia del Barrio</title>
-        <desc>Pelu el Payaso le pide a Jony que sea su nuevo ayudante e inician una gira espectacular que da muchos frutos. Mientras tanto, el Noruego descubre su afición por los tatuajes.</desc>
-        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5e8397936791b30007ebb5a7" start="20260505235200 +0000" stop="20260506004800 +0000">
+        <title>Pluto TV Humor</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5e8397936791b30007ebb5a7" start="20260506004800 +0000" stop="20260506011500 +0000">
         <title>La Familia del Barrio</title>
@@ -23886,50 +23891,10 @@
         <desc>Failure finds us in all phases of life.</desc>
         <icon src="https://images.pluto.tv/series/68daa6c5f1f80c81512bbb8c/tile_1759182704650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260505223000 +0000" stop="20260505230000 +0000">
+    <programme channel="5f998c1fc54853000797bacd" start="20260505223000 +0000" stop="20260506023000 +0000">
         <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260505230000 +0000" stop="20260505233000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260505233000 +0000" stop="20260506000000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260506000000 +0000" stop="20260506003000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260506003000 +0000" stop="20260506010000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260506010000 +0000" stop="20260506013000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260506013000 +0000" stop="20260506020000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260506020000 +0000" stop="20260506023000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260506023000 +0000" stop="20260506030000 +0000">
-        <title>Tastemade</title>
-        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
-        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage_1730999717463.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5ffcc21a432945000762d06b" start="20260505221100 +0000" stop="20260505231100 +0000">
         <title>La Culpa es de Cortés</title>
@@ -24116,30 +24081,10 @@
         <desc>Hoy, fiesta de los años 80. Arturo, el perro, es el nuevo integrante de la casa, una casa con doce jugadores en placa: Coty, Darío, Emma, Manzana, Flor, Furia, Martín, Mauro, Nico, Paloma, Vir y Zoe.</desc>
         <icon src="https://images.pluto.tv/series/657883b608d0ab0013e580d8/tile_1769466242131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20260505220000 +0000" stop="20260505230000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20260505230000 +0000" stop="20260506000000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20260506000000 +0000" stop="20260506010000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20260506010000 +0000" stop="20260506020000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="646ccc7a2858cb0008127367" start="20260506020000 +0000" stop="20260506030000 +0000">
-        <title>Azteca UNO -1</title>
-        <desc>TBD</desc>
-        <icon src="https://images.pluto.tv/series/65cbba43ec452d0008acf059/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="646ccc7a2858cb0008127367" start="20260505223000 +0000" stop="20260506023000 +0000">
+        <title>Azteca UNO -1 hora</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="646cce4d1593940008a33f09" start="20260505213000 +0000" stop="20260505230000 +0000">
         <title>Azteca Internacional</title>
@@ -24171,30 +24116,10 @@
         <desc>Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia.</desc>
         <icon src="https://images.pluto.tv/series/652ebc0e8f5c430008917e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20260505220000 +0000" stop="20260505230000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20260505230000 +0000" stop="20260506000000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20260506000000 +0000" stop="20260506010000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20260506010000 +0000" stop="20260506020000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64e35aff6b1fdb0008ea8441" start="20260506020000 +0000" stop="20260506030000 +0000">
-        <title>Imagen TV +</title>
-        <desc>Imagen TV+</desc>
-        <icon src="https://images.pluto.tv/series/65a07479dfed030008175016/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64e35aff6b1fdb0008ea8441" start="20260505223000 +0000" stop="20260506023000 +0000">
+        <title>Imagen TV+</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64fb1f6e6625510008c00848" start="20260505220800 +0000" stop="20260505223600 +0000">
         <title>La cabaña familiar de Bryk</title>
@@ -24267,49 +24192,24 @@
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65df7272ec9fda0008b7a970" start="20260505233000 +0000" stop="20260505235800 +0000">
-        <title>South Park</title>
-        <desc>Varios habitantes de South Park explotan sin razón aparente y Randy es el encargado de descubrir por qué. Por otro lado, los chicos tienen que representar las "Estaciones de la cruz" en misa, y Kyle trata de ''conseguir una erección''.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>South Park: Colección Kenny</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65df7272ec9fda0008b7a970" start="20260505235800 +0000" stop="20260506002500 +0000">
         <title>South Park</title>
         <desc>Cuento Southparkitero del libro "Grandes Esperanzas" de Dickens, teniendo como protagonista a Pip, un inglés de clase pobre, y con Malcolm McDowell, un británico como narrador.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260506002500 +0000" stop="20260506005200 +0000">
-        <title>South Park</title>
-        <desc>Cartman se enoja porque Kenny consiguió una consola de videojuegos y él no. Pero Kenny muere al llegar al nivel 60, y va al cielo y se entera que Dios lo mató a propósito ya que lo necesitan para que salve al cielo de un ataque de Satanás.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="65df7272ec9fda0008b7a970" start="20260506002500 +0000" stop="20260506023000 +0000">
+        <title>South Park: Colección Kenny</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260506005200 +0000" stop="20260506011900 +0000">
-        <title>South Park</title>
-        <desc>En Halloween, los chicos quieren asustar a los de quinto grado, así que desentierran el cadáver de la abuela de Kyle. Mientras tanto, la banda Korn está en South Park y unos fantasmas piratas asechan a los habitantes.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260506011900 +0000" stop="20260506014700 +0000">
-        <title>South Park</title>
-        <desc>Chef reclama los derechos de la nueva canción de Alanis Morissette, ''Calzón Sucio'', pero de alguna forma termina siendo demandado. Ahora los chicos, Elton John y otros músicos tratan de juntar el dinero para ayudar a Chef.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260506014700 +0000" stop="20260506021400 +0000">
-        <title>South Park</title>
-        <desc>El Sr. Mackey es despedido de la escuela por perder una hoja de marihuana durante una presentación en contra de las drogas. Entretanto, los chicos tratan de salvar a Ike de su fiesta ''bris'' en donde le harán la circuncisión.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260506021400 +0000" stop="20260506024100 +0000">
-        <title>South Park</title>
-        <desc>Kenny lleva a su novia a un concierto de los Jonas Brothers donde cada asistente recibe "anillos de castidad".</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65df72db18036500081a8292" start="20260505220800 +0000" stop="20260505223600 +0000">
-        <title>South Park</title>
-        <desc>Varios habitantes de South Park explotan sin razón aparente y Randy es el encargado de descubrir por qué. Por otro lado, los chicos tienen que representar las "Estaciones de la cruz" en misa, y Kyle trata de ''conseguir una erección''.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65df72db18036500081a8292" start="20260505223600 +0000" stop="20260505230200 +0000">
-        <title>South Park</title>
-        <desc>Cuando un chico mormón se muda a South Park, Stan tiene que patear su trasero, mientras el resto de los ciudadanos están fascinados y se convierten en mormones.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="65df72db18036500081a8292" start="20260505223000 +0000" stop="20260505230200 +0000">
+        <title>South Park: Colección Stan</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65df72db18036500081a8292/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65df72db18036500081a8292" start="20260505230200 +0000" stop="20260505232900 +0000">
         <title>South Park</title>
@@ -24327,9 +24227,9 @@
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65df72db18036500081a8292" start="20260506002300 +0000" stop="20260506005000 +0000">
-        <title>South Park</title>
-        <desc>Stan cumple 10 años y comienza a ver todo de una forma diferente. Para él, ahora todo es una mierda. Los otros chicos lo ven depresivo y se alejan de él para no ser contagiados.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>South Park: Colección Stan</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65df72db18036500081a8292/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65df72db18036500081a8292" start="20260506005000 +0000" stop="20260506011700 +0000">
         <title>South Park</title>
@@ -24346,10 +24246,10 @@
         <desc>Stan investiga por qué son decorados los huevos de Pascua, y qué tienen que ver los conejos y los huevos con la muerte de Jesús por sus pecados, por lo que se adentra en una sociedad bizarra con Kyle.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df72db18036500081a8292" start="20260506020900 +0000" stop="20260506023600 +0000">
-        <title>South Park</title>
-        <desc>Cartman encuentra una manera única de tratar con el síndrome de Asperger. Mientras tanto, Stan no parece recuperar su vida a la normalidad, no importa cuánto se esfuerce.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="65df72db18036500081a8292" start="20260506020900 +0000" stop="20260506023000 +0000">
+        <title>South Park: Colección Stan</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65df72db18036500081a8292/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65df731cec9fda0008b7aa8d" start="20260505222000 +0000" stop="20260505224700 +0000">
         <title>South Park</title>
@@ -24407,9 +24307,9 @@
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65df73520d4561000817c29b" start="20260505224800 +0000" stop="20260505231500 +0000">
-        <title>South Park</title>
-        <desc>Cartman consigue ganar dinero subiendo videos de unos bebés peleando por una pelotita de crack. Kyle piensa que eso es malo hasta que Cartman lo convence de que no es así.</desc>
-        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>South Park: Colección Kyle</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65df73520d4561000817c29b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65df73520d4561000817c29b" start="20260505231500 +0000" stop="20260505234100 +0000">
         <title>South Park</title>
@@ -24471,50 +24371,10 @@
         <desc>¡Entretenimiento futbolístico para los aficionados! Mira documentales, series originales y partidos selectos en vivo, así como momentos históricos de la Copa Mundial de la FIFA™️, la Copa Mundial de Clubes de la FIFA™️, la Copa Mundial Femenina de la FIFA</desc>
         <icon src="https://images.pluto.tv/series/66bf9455dc6f2f001347d21e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260505221500 +0000" stop="20260505224500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260505224500 +0000" stop="20260505231500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260505231500 +0000" stop="20260505234500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260505234500 +0000" stop="20260506001500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260506001500 +0000" stop="20260506004500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260506004500 +0000" stop="20260506011500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260506011500 +0000" stop="20260506014500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260506014500 +0000" stop="20260506021500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260506021500 +0000" stop="20260506024500 +0000">
-        <title>Bromas Gags – Just for Laughs</title>
-        <desc>Bromas Gags – Just for Laughs</desc>
-        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260505223000 +0000" stop="20260506023000 +0000">
+        <title>Bromas Gags - Just for Laughs</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="67813f893886aa863497733d" start="20260505215400 +0000" stop="20260505232400 +0000">
         <title>Here to Climb</title>
@@ -24546,55 +24406,15 @@
         <desc>Los mejores jugadores de pádel del mundo se enfrentan en el Buenos Aires Premier Padel P1 en Parque Roca.</desc>
         <icon src="https://images.pluto.tv/series/67bcada561167de6828ec71d/tile_1753049535293.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260505220000 +0000" stop="20260505230000 +0000">
+    <programme channel="67a52c8397782f00081879aa" start="20260505223000 +0000" stop="20260506023000 +0000">
         <title>Top Barça</title>
-        <desc>Top Barça, Canal del Fútbol Club Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/67acb431c070cf00085b51c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/67a52c8397782f00081879aa/featuredImage_1753987326213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260505230000 +0000" stop="20260506000000 +0000">
-        <title>Top Barça</title>
-        <desc>Top Barça, Canal del Fútbol Club Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/67acb431c070cf00085b51c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260506000000 +0000" stop="20260506010000 +0000">
-        <title>Top Barça</title>
-        <desc>Top Barça, Canal del Fútbol Club Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/67acb431c070cf00085b51c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260506010000 +0000" stop="20260506020000 +0000">
-        <title>Top Barça</title>
-        <desc>Top Barça, Canal del Fútbol Club Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/67acb431c070cf00085b51c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260506020000 +0000" stop="20260506030000 +0000">
-        <title>Top Barça</title>
-        <desc>Top Barça, Canal del Fútbol Club Barcelona</desc>
-        <icon src="https://images.pluto.tv/series/67acb431c070cf00085b51c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52cd4ec91870008a62164" start="20260505220000 +0000" stop="20260505230000 +0000">
-        <title>UFC Channel</title>
-        <desc>UFC Channel</desc>
-        <icon src="https://images.pluto.tv/series/67acb38515d6eb0008409b74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52cd4ec91870008a62164" start="20260505230000 +0000" stop="20260506000000 +0000">
-        <title>UFC Channel</title>
-        <desc>UFC Channel</desc>
-        <icon src="https://images.pluto.tv/series/67acb38515d6eb0008409b74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52cd4ec91870008a62164" start="20260506000000 +0000" stop="20260506010000 +0000">
-        <title>UFC Channel</title>
-        <desc>UFC Channel</desc>
-        <icon src="https://images.pluto.tv/series/67acb38515d6eb0008409b74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52cd4ec91870008a62164" start="20260506010000 +0000" stop="20260506020000 +0000">
-        <title>UFC Channel</title>
-        <desc>UFC Channel</desc>
-        <icon src="https://images.pluto.tv/series/67acb38515d6eb0008409b74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67a52cd4ec91870008a62164" start="20260506020000 +0000" stop="20260506030000 +0000">
-        <title>UFC Channel</title>
-        <desc>UFC Channel</desc>
-        <icon src="https://images.pluto.tv/series/67acb38515d6eb0008409b74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="67a52cd4ec91870008a62164" start="20260505223000 +0000" stop="20260506023000 +0000">
+        <title>UFC</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/featuredImage_1772478524925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="68224482c5d53e1351aaf2f2" start="20260505220000 +0000" stop="20260505233000 +0000">
         <title>Dali y el príncipe arrogante</title>
@@ -24637,9 +24457,9 @@
         <icon src="https://images.pluto.tv/series/694c0183262748e858f93b55/tile_1766588812583.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6894fc3f66f164e402f4fd14" start="20260505233700 +0000" stop="20260506000900 +0000">
-        <title>Había una vez</title>
-        <desc>Isabel Vermal le rinde homenaje al famoso cuento "La vuelta al mundo en ochenta días", con un biscuit de coco y nuez.</desc>
-        <icon src="https://images.pluto.tv/series/697782a78c4cf95f2a417a58/tile_1769439911801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Dulce by elGourmet</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/featuredImage_1756447018187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6894fc3f66f164e402f4fd14" start="20260506000900 +0000" stop="20260506004100 +0000">
         <title>Había una vez</title>
@@ -24666,80 +24486,20 @@
         <desc>Las clásicas y deliciosas tortas de Maru ya no serán un secreto. Un invitado sorpresa le pide a ella en cada episodio una de sus famosas creaciones, develándose en el transcurso del programa.</desc>
         <icon src="https://images.pluto.tv/series/68ac7c95b76cf0ad37b7ac2c/tile_1756134656399.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260505220000 +0000" stop="20260505230000 +0000">
+    <programme channel="68b88712e777774982269ce9" start="20260505223000 +0000" stop="20260506023000 +0000">
         <title>Tastemade Viajes</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68b88712e777774982269ce9/featuredImage_1759784098205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260505230000 +0000" stop="20260506000000 +0000">
-        <title>Tastemade Viajes</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260506000000 +0000" stop="20260506010000 +0000">
-        <title>Tastemade Viajes</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260506010000 +0000" stop="20260506020000 +0000">
-        <title>Tastemade Viajes</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260506020000 +0000" stop="20260506030000 +0000">
-        <title>Tastemade Viajes</title>
-        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
-        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260505220000 +0000" stop="20260505230000 +0000">
+    <programme channel="68b887c2e77777498226a0de" start="20260505223000 +0000" stop="20260506023000 +0000">
         <title>Tastemade Hogar</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68b887c2e77777498226a0de/featuredImage_1759784259408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260505230000 +0000" stop="20260506000000 +0000">
-        <title>Tastemade Hogar</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260506000000 +0000" stop="20260506010000 +0000">
-        <title>Tastemade Hogar</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260506010000 +0000" stop="20260506020000 +0000">
-        <title>Tastemade Hogar</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260506020000 +0000" stop="20260506030000 +0000">
-        <title>Tastemade Hogar</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260505222818 +0000" stop="20260505232818 +0000">
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260505223000 +0000" stop="20260506023000 +0000">
         <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260505232818 +0000" stop="20260506002818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260506002818 +0000" stop="20260506012818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260506012818 +0000" stop="20260506022818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260506022818 +0000" stop="20260506032818 +0000">
-        <title>Al Ritmo del Jaripeo</title>
-        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
-        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage_1760471497960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="699763d184235f26d5056002" start="20260505221653 +0000" stop="20260505224053 +0000">
         <title>Enchufe.TV</title>

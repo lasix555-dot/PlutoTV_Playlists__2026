@@ -1571,6 +1571,11 @@
         <desc>Sigue un juego de supervivencia en un mundo virtual similar a Matrix contra varios desafíos, incluido un monstruo aterrador.</desc>
         <icon src="https://images.pluto.tv/series/66a75b8917101c00138d8918/tile_1769189402122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260505152459 +0000" stop="20260505163842 +0000">
+        <title>Ace Bodyguard</title>
+        <desc>Un guardaespaldas de élite "retirado", Zhang Han, une fuerzas con su ex compañero para salvar a su esposa secuestrada.</desc>
+        <icon src="https://images.pluto.tv/series/66a74ed36134930013b921b5/tile_1769189402045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260505100421 +0000" stop="20260505112943 +0000">
         <title>El super chef</title>
         <desc>Un cocinero chino accidentalmente se ve envuelto en un reportaje que se está filmando sobre un intercambio de droga que resulta fallido. La mafia comienza a perseguirle para conseguir la cinta.</desc>
@@ -12231,6 +12236,11 @@
         <desc>Cuatro personas luchan contra drogadicciones cada vez más insaciables, y a pesar de sus buenas intenciones, las drogas ganan y sus vidas entran en una espiral sin control.</desc>
         <icon src="https://images.pluto.tv/series/61dec51a635aeb001ac7d78c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260505224343 +0000" stop="20260506005543 +0000">
+        <title>De tal padre, tal hijo</title>
+        <desc>¿Con quién se quedaría, con su hijo natural, o con el hijo que ha creído suyo durante seis años? Una familia sufrirá lo indecible después de recibir una llamada del hospital donde nació su hijo.</desc>
+        <icon src="https://images.pluto.tv/series/60d4279fb8187f00136a413b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260505181841 +0000" stop="20260505190841 +0000">
         <title>Historias de Ultratumba: Los Intrusos</title>
         <desc>Lynn y Jason Ryder compran un histórico restaurante en Connecticut, pero son invadidos por las fuerzas del mal y empleados y clientes son atacados. Investigadores, médiums y clarividentes son llamados para librar al restaurante de su pasado demoníaco.</desc>
@@ -15372,6 +15382,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Mientras Poirot duerme durante un vuelo de París a Londres, un notorio prestamista francés es asesinado mediante un dardo envenenado.</desc>
         <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1774005480948.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6304f530440dc90007f514d3" start="20260506023800 +0000" stop="20260506043400 +0000">
+        <title>Agatha Christie: Poirot ES: El misterioso caso del zapato</title>
+        <desc>Poco después de que Poirot realice una visita rutinaria al dentista, el doctor se suicida. Por ello, el inspector jefe Japp recluta al célebre detective de dos maneras: como consultor y como testigo.</desc>
+        <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1774005480948.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260505214600 +0000" stop="20260505223900 +0000">
         <title>Crímenes que conmocionaron a Gran Bretaña</title>
         <desc>Conoceremos, en esta ocasión, la historia de Myra Hindley e Ian Brady. La pareja fue condenada por los terribles asesinatos de cinco niños y niñas entre 1963 y 1965.</desc>
@@ -15707,10 +15722,25 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Andy y Swarek siguen el rastro de un adolescente tras robar y agredir a un delincuente que resulta ser el padre de su novia. Andy y Swarek deben encontrar a la pareja antes de que sea tarde.</desc>
         <icon src="https://images.pluto.tv/series/67f3b4685c4a51b28b3213fc/tile_1774006200998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6793ac47f5c74bff95d18a99" start="20260505223000 +0000" stop="20260506023000 +0000">
-        <title>TOP BARÇA</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6793ac47f5c74bff95d18a99" start="20260505221537 +0000" stop="20260506001537 +0000">
+        <title>FULL MATCH | Osasuna - Barça | La Liga 202526</title>
+        <desc>FULL MATCH | Osasuna - Barça | La Liga 202526</desc>
+        <icon src="https://images.pluto.tv/series/69f8888dbad55a72b0739074/tile_1777895566740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6793ac47f5c74bff95d18a99" start="20260506001537 +0000" stop="20260506010735 +0000">
+        <title>El Álbum</title>
+        <desc>Andrés Iniesta recuerda sus años en Barcelona, donde lo ganó todo con el equipo blaugrana</desc>
+        <icon src="https://images.pluto.tv/series/69f225f74f7f25efd2856483/tile_1777980203033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6793ac47f5c74bff95d18a99" start="20260506010735 +0000" stop="20260506013731 +0000">
+        <title>Todos los goles. Andrés Iniesta (2002-2018)</title>
+        <desc>Todos los goles de Andrés Iniesta con el FC Barcelona</desc>
+        <icon src="https://images.pluto.tv/series/69f225fe8b8e147fa4ee0096/tile_1777477119811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6793ac47f5c74bff95d18a99" start="20260506013731 +0000" stop="20260506035153 +0000">
+        <title>FULL MATCH | Barça - Real Madrid | La Liga 2013/2014</title>
+        <desc>FULL MATCH | Barça - Real Madrid | La Liga 2013/2014</desc>
+        <icon src="https://images.pluto.tv/series/69f88892bfa576e17109268b/tile_1777895571275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6812206e1b3e3be031a5c363" start="20260505211047 +0000" stop="20260505223857 +0000">
         <title>Águila Roja</title>
@@ -16607,6 +16637,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Un joven combatiente de la Primera Guerra Mundial despierta totalmente confuso en un hospital, confinado de por vida, ciego, sordo y mudo y con las piernas y los brazos amputados a causa de una explosión.</desc>
         <icon src="https://images.pluto.tv/series/673b0bfdb7ea5e0013f38025/tile_1769191201990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260506031757 +0000" stop="20260506060157 +0000">
+        <title>La decisión de Sophie</title>
+        <desc>Ganadora del Oscar a Mejor Actriz (Meryl Streep) y dirigida por Alan Pakula (El informe Pelícano). Stingo, un joven con ambiciones literarias se traslada a Brooklyn, donde conoce a una inmigrante polaca llamada Sophie, una superviviente de Auschwitz...</desc>
+        <icon src="https://images.pluto.tv/series/62384c82ff21e500131cb32d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260505222629 +0000" stop="20260505231516 +0000">
         <title>America's Next Top Model</title>
         <desc>A la foto de una modelo se la considera la peor de la historia del programa y ​​las participantes trabajan con un fotógrafo inflexible.</desc>
@@ -16951,6 +16986,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>El porvenir</title>
         <desc>Nathalie enseña Filosofía en un instituto de París. Su trabajo le apasiona y disfruta con la reflexión. Un día, su marido le dice que la deja por otra mujer. Con tanta libertad, Nathalie se ve obligada a reinventar su vida.</desc>
         <icon src="https://images.pluto.tv/series/60d2d7bdfad1f80013b30ff7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260506025043 +0000" stop="20260506051943 +0000">
+        <title>Melancolía</title>
+        <desc>Con motivo de su matrimonio, Justine y Michael dan una suntuosa recepción en la casa de la hermana de Justine y de su cuñado. Mientras tanto, el planeta Melancholia se dirige hacia la Tierra.</desc>
+        <icon src="https://images.pluto.tv/series/60d18630d2de2a0013003593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260505222541 +0000" stop="20260505231441 +0000">
         <title>Historias de Ultratumba: Las Cenizas del Mal</title>
@@ -20637,6 +20677,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Ryota vive en el pasado, en sus momentos de gloria como premiado autor. Un inesperado tifón obligará a toda la familia a pasar la noche juntos en casa de la abuela y les dará la oportunidad de reencontrarse.</desc>
         <icon src="https://images.pluto.tv/series/60d0435528f1d30013ed348e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac947dcd00d0007937c08" start="20260506063024 +0000" stop="20260506085624 +0000">
+        <title>Nuestra hermana pequeña</title>
+        <desc>Nuestra hermana pequeña</desc>
+        <icon src="https://images.pluto.tv/series/60d0438f28f1d30013ed4249/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac9a2d3611d0007a844bb" start="20260506020100 +0000" stop="20260506034800 +0000">
         <title>El amor no es lo que era</title>
         <desc>Tres historias de amor que se desarrollan en la misma ciudad. Paz y Jorge llevan tres años casados pero su matrimonio no funciona, la relación se está apagando y ninguno de los dos encuentra la solución.</desc>
@@ -21686,6 +21731,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Pride</title>
         <desc>Verano de 1984. Thatcher gobierna y el Sindicato Nacional de Mineros (NUM) ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los mineros.</desc>
         <icon src="https://images.pluto.tv/series/60d2d7c0fad1f80013b310ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260506073543 +0000" stop="20260506094643 +0000">
+        <title>El precio de la fama</title>
+        <desc>Años 70 en Vevey, a orillas del lago Ginebra. Al salir de la cárcel, Eddy Ricaart va a casa de su amigo Osman Bricha. Han acordado que Eddy cuidará de Samira, la hija de Osman, mientras su esposa Noor está ingresada.</desc>
+        <icon src="https://images.pluto.tv/series/60d0436f28f1d30013ed39bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="612ce5214bb5790007ad3016" start="20260506014141 +0000" stop="20260506023041 +0000">
         <title>Historias de Ultratumba: Atrapados en el Terror</title>
@@ -25402,6 +25452,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Un médico estadounidense es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá ingeniárselas para sobrevivir en un país en el que no puede acudir a nadie en busca de ayuda.</desc>
         <icon src="https://images.pluto.tv/series/5f4e183bfa72a5001a5fa6d5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260506105158 +0000" stop="20260506125458 +0000">
+        <title>Junglee: Alma Salvaje</title>
+        <desc>Un veterano de guerra vuelve a casa, a la reserva de elefantes de su padre, donde tendrá que luchar contra unos cazadores furtivos.</desc>
+        <icon src="https://images.pluto.tv/series/5fe9b7744aa70a001a4fd42c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260506060651 +0000" stop="20260506073628 +0000">
         <title>Atraco por duplicado</title>
         <desc>Cuando le toman como rehén durante el atraco a un banco, un hombre se propone proteger a la guapa cajera de la que se ha enamorado perdidamente.</desc>
@@ -25471,6 +25526,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>El mejor día del año</title>
         <desc>El film narra el viaje inspirador y el cambio vital de un joven a través del misterioso Yellow Day. Para muchos, el Día Amarillo es simplemente un día divertido de celebración mientras que para otros tiene una carga más trascendental.</desc>
         <icon src="https://images.pluto.tv/series/60cb5695adcfc00013d4f3ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260506103219 +0000" stop="20260506115859 +0000">
+        <title>Mensaje De Amor En Una Botella</title>
+        <desc>Desafortunadamente en el amor, Abbey comparte las frustraciones de sus citas con su tía, quien sugiere que escriba una carta de amor explicando los deseos de su verdadero corazón.</desc>
+        <icon src="https://images.pluto.tv/series/660d6950a79dde0014200694/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260506052358 +0000" stop="20260506070758 +0000">
         <title>La era del mañana</title>
