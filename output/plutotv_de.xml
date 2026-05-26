@@ -3026,6 +3026,11 @@
         <desc>Aus der Veszprem Arena in Veszprem, Ungarn.</desc>
         <icon src="https://images.pluto.tv/series/66bc6bc2dc6f2f0013193a6a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6683f7fe36a2f9000804940c" start="20260526193000 +0000" stop="20260526213100 +0000">
+        <title>EHF European League</title>
+        <desc>From ZAG-Arena in Hanover, Lower Saxony, Germany.</desc>
+        <icon src="https://images.pluto.tv/series/66bc6bc4dc6f2f0013193ca1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="67b481cc1a5ca760801c6c5e" start="20260526082312 +0000" stop="20260526144539 +0000">
         <title>The Last Flight - Deutschlands erste Entertainment Darts-Liga</title>
         <desc>The Last Flight – Spieltag 7. Der Kampf ums Final Four eskaliert: Vier Teams kämpfen um zwei Plätze. Können die Bowling Freunde endlich ihr erstes Spiel gewinnen? Direkte Duelle, Überraschungen und wichtige Punkte entscheiden über alles.</desc>
@@ -9422,6 +9427,11 @@
         <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64b67f0424ade50008a3be17" start="20260526223900 +0000" stop="20260527030500 +0000">
+        <title>Darts</title>
+        <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
+        <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64b67f0424ade50008a3be17" start="20260527030500 +0000" stop="20260527060100 +0000">
         <title>Darts</title>
         <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
         <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>

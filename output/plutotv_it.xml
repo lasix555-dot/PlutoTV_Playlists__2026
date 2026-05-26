@@ -24578,20 +24578,40 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260527061500 +0000" stop="20260527070000 +0000">
-        <title>45 Minutos</title>
-        <desc>Espacio con los resúmenes de los mejores partidos jugados por el Real Madrid.</desc>
-        <icon src="https://images.pluto.tv/series/662295234da6e30013fbcd93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260527070000 +0000" stop="20260527094000 +0000">
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527050500 +0000" stop="20260527070000 +0000">
         <title>Historia que tú hiciste</title>
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260527094000 +0000" stop="20260527123000 +0000">
-        <title>Historia que tú hiciste</title>
-        <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
-        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527070000 +0000" stop="20260527071500 +0000">
+        <title>Aprende inglés con Vaughan en Realmadrid TV</title>
+        <desc>Espacio destinado a la enseñanza del inglés con ejercicios útiles y distintas actividades.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39953/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527071500 +0000" stop="20260527080000 +0000">
+        <title>15 Minutos</title>
+        <desc>Resúmenes donde se muestran los mejores partidos y excelentes jugadas realizadas por los Merengues del Real Madrid.</desc>
+        <icon src="https://images.pluto.tv/series/6615039f1ed2fc0013a39b27/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527080000 +0000" stop="20260527093000 +0000">
+        <title>Fútbol LaLiga</title>
+        <desc>La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+        <icon src="https://images.pluto.tv/series/661503a01ed2fc0013a39c61/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527093000 +0000" stop="20260527100000 +0000">
+        <title>Ciudad Real Madrid</title>
+        <desc>La emisión de los partidos de la cantera del Real Madrid y la actualidad del primer equipo de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39928/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527100000 +0000" stop="20260527103000 +0000">
+        <title>Ciudad Real Madrid</title>
+        <desc>La emisión de los partidos de la cantera del Real Madrid y la actualidad del primer equipo de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39928/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527103000 +0000" stop="20260527133000 +0000">
+        <title>Ciudad Real Madrid</title>
+        <desc>La emisión de los partidos de la cantera del Real Madrid y la actualidad del primer equipo de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39928/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260527062500 +0000" stop="20260527065900 +0000">
         <title>All Penalty Shootouts from the FIFA World Cup</title>
@@ -29433,17 +29453,17 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/651599db91ee7c001a1e256b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260527103000 +0000" stop="20260527133000 +0000">
-        <title>Ciudad Real Madrid</title>
-        <desc>La emisión de los partidos de la cantera del Real Madrid y la actualidad del primer equipo de fútbol y baloncesto.</desc>
-        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39928/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527094000 +0000" stop="20260527123000 +0000">
+        <title>Historia que tú hiciste</title>
+        <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260527133000 +0000" stop="20260527140000 +0000">
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527123000 +0000" stop="20260527133500 +0000">
         <title>Conecta informativo</title>
         <desc>Toda la actualidad y la última hora de los equipos de fútbol y baloncesto del Real Madrid.</desc>
         <icon src="https://images.pluto.tv/series/661503a01ed2fc0013a39cca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260527140000 +0000" stop="20260527155500 +0000">
+    <programme channel="65f96cd34e01740008ef1c97" start="20260527133500 +0000" stop="20260527152500 +0000">
         <title>Historia que tú hiciste</title>
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>

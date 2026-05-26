@@ -1047,14 +1047,19 @@
         <icon src="https://images.pluto.tv/series/6352bdc8cba1290014dc174a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dcde437229eff00091b6c30" start="20260526152600 +0000" stop="20260526173500 +0000">
-        <title>Serena</title>
-        <desc>En la Carolina del Norte de los Años 20, el futuro del imperio maderero de George Pemberton se complica cuando se casa con Serena.</desc>
-        <icon src="https://images.pluto.tv/series/5e0a2bf5be8fa6764e87708d/tile_1769633283013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV Cine Estelar</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage_1769014514491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5dcde437229eff00091b6c30" start="20260526173500 +0000" stop="20260526194700 +0000">
         <title>Love &amp; Other Drugs</title>
         <desc>Maggie y Jamie comienzan una relación que los enfrenta a una enfermedad y a la droga del amor.</desc>
         <icon src="https://images.pluto.tv/series/691338f353c87f06fd82d0df/tile_1762876740113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde437229eff00091b6c30" start="20260526194700 +0000" stop="20260526214900 +0000">
+        <title>Autumn in New York</title>
+        <desc>Will Keane es el propietario de uno de los restaurantes más famosos y prestigiosos de Nueva York. Su carisma y seguridad le convierten en un imán para las mujeres, con las que se relaciona sin comprometerse.</desc>
+        <icon src="https://images.pluto.tv/series/5eb01a711b77ab001a634f2e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dd6ddb30a1d8a000908ed4c" start="20260526135200 +0000" stop="20260526153600 +0000">
         <title>Mi Perro es un Robot 2</title>
